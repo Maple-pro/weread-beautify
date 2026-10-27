@@ -1,0 +1,12 @@
+{
+  "name": "weread-beautify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "微信读书网页版阅读器增强油猴脚本",
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "devDependencies": {
+    "jsdom": "^30.1.3"
+  }
+}
